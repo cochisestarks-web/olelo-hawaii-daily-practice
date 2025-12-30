@@ -101,13 +101,22 @@ Each Hawaiian value includes:
 - `related_concepts`: Connected Hawaiian values
 - `olelo_noeau`: Traditional Hawaiian proverb (when applicable)
 
-## 🙏 Cultural Notes
+## 🙏 Cultural Notes & Attribution
 
 This app was created with respect for Hawaiian culture and language. It focuses on:
 - Practical, everyday applications of values
 - Cultural context that avoids spiritual appropriation
 - Accurate pronunciation guides
 - Interconnected worldview of Hawaiian values
+
+### Sources
+
+Hawaiian language and cultural content informed by:
+- [Māʻemaʻe Glossary of Common Hawaiian Vocabulary](https://www.hawaiitourismauthority.org/media/1682/maemae-glossary-of-common-hawaiian-vocabulary.pdf) - Hawaiʻi Tourism Authority
+- Traditional ʻōlelo noʻeau (Hawaiian proverbs)
+- Cultural research on Hawaiian values and practices
+
+This app is created for educational purposes and honors the living Hawaiian language and culture.
 
 ## 👨‍💻 Developer
 
