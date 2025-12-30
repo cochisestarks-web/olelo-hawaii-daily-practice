@@ -36,36 +36,6 @@ A cultural learning tool that teaches Hawaiian values through daily practice, no
 - Headings: Merriweather (serif)
 - Body: Open Sans (sans-serif)
 
-## 🚀 Deployment
-
-### Netlify Deployment (Recommended)
-
-1. **Initialize Git Repository**:
-```bash
-git init
-git add .
-git commit -m "Initial commit: ʻŌlelo Hawaiʻi Daily Practice App"
-```
-
-2. **Create GitHub Repository** (optional but recommended):
-```bash
-gh repo create olelo-hawaii-app --public --source=. --remote=origin --push
-```
-
-3. **Deploy to Netlify**:
-   - Go to [Netlify](https://app.netlify.com)
-   - Click "Add new site" → "Import an existing project"
-   - Connect your GitHub repository
-   - Build settings:
-     - Build command: (leave empty)
-     - Publish directory: `.` (root)
-   - Click "Deploy site"
-
-### Alternative: Netlify Drop
-
-1. Drag and drop the entire project folder into [Netlify Drop](https://app.netlify.com/drop)
-2. Your site will be live instantly
-
 ## 🛠️ Technology Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)
