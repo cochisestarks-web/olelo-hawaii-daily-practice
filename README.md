@@ -13,6 +13,9 @@ A cultural learning tool that teaches Hawaiian values through daily practice, no
 - **Responsive Design**: Works seamlessly on mobile, tablet, and desktop
 - **Offline-First**: All data stored locally, no API dependencies
 
+  🔗 Live Demo: https://olelo-hawaii.netlify.app/
+💻 GitHub: https://github.com/cochisestarks-web/olelo-hawaii-daily-practice
+
 ## 📚 Content
 
 22 Hawaiian values across 5 categories:
