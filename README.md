@@ -36,6 +36,36 @@ A cultural learning tool that teaches Hawaiian values through daily practice, no
 - Headings: Merriweather (serif)
 - Body: Open Sans (sans-serif)
 
+## 🚀 Deployment
+
+### Netlify Deployment (Recommended)
+
+1. **Initialize Git Repository**:
+```bash
+git init
+git add .
+git commit -m "Initial commit: ʻŌlelo Hawaiʻi Daily Practice App"
+```
+
+2. **Create GitHub Repository** (optional but recommended):
+```bash
+gh repo create olelo-hawaii-app --public --source=. --remote=origin --push
+```
+
+3. **Deploy to Netlify**:
+   - Go to [Netlify](https://app.netlify.com)
+   - Click "Add new site" → "Import an existing project"
+   - Connect your GitHub repository
+   - Build settings:
+     - Build command: (leave empty)
+     - Publish directory: `.` (root)
+   - Click "Deploy site"
+
+### Alternative: Netlify Drop
+
+1. Drag and drop the entire project folder into [Netlify Drop](https://app.netlify.com/drop)
+2. Your site will be live instantly
+
 ## 🛠️ Technology Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)
@@ -79,12 +109,15 @@ This app was created with respect for Hawaiian culture and language. It focuses 
 - Accurate pronunciation guides
 - Interconnected worldview of Hawaiian values
 
-### Sources
+### Sources & Methodology
 
-Hawaiian language and cultural content informed by:
-- [Māʻemaʻe Glossary of Common Hawaiian Vocabulary](https://www.hawaiitourismauthority.org/media/1682/maemae-glossary-of-common-hawaiian-vocabulary.pdf) - Hawaiʻi Tourism Authority
-- Traditional ʻōlelo noʻeau (Hawaiian proverbs)
-- Cultural research on Hawaiian values and practices
+Hawaiian language and cultural content developed through:
+- [Māʻemaʻe Glossary of Common Hawaiian Vocabulary](https://www.hawaiitourismauthority.org/media/1682/maemae-glossary-of-common-hawaiian-vocabulary.pdf) - Hawaiʻi Tourism Authority (vocabulary and pronunciation)
+- AI-assisted research (ChatGPT, Grok) for cultural context compilation
+- Cross-referenced across multiple sources for accuracy
+- Reviewed and validated by developer with Hawaiian ancestry
+
+**Cultural Positionality**: This app was created by a developer of Hawaiian descent (27% Native Hawaiian, diaspora) with deep respect for ʻōlelo Hawaiʻi and Hawaiian cultural values. The content focuses on practical, everyday applications rather than sacred or restricted knowledge.
 
 This app is created for educational purposes and honors the living Hawaiian language and culture.
 
